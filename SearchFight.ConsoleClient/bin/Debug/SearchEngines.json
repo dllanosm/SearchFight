@@ -1,0 +1,12 @@
+{
+  "EngineList": [
+    {
+      "EngineName": "Google",
+      "AssemblyName": "SearchFight.EngineProxy.GoogleEngine"
+    },
+    {
+      "EngineName": "Bing",
+      "AssemblyName": "SearchFight.EngineProxy.BingEngine"
+    }
+	]
+}

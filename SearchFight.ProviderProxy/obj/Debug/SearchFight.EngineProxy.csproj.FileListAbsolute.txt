@@ -1,0 +1,6 @@
+D:\DEV\TEST\SearchFight\SearchFight.ProviderProxy\bin\Debug\SearchFight.EngineProxy.dll
+D:\DEV\TEST\SearchFight\SearchFight.ProviderProxy\bin\Debug\SearchFight.EngineProxy.pdb
+D:\DEV\TEST\SearchFight\SearchFight.ProviderProxy\obj\Debug\SearchFight.EngineProxy.csproj.CoreCompileInputs.cache
+D:\DEV\TEST\SearchFight\SearchFight.ProviderProxy\obj\Debug\SearchFight.EngineProxy.dll
+D:\DEV\TEST\SearchFight\SearchFight.ProviderProxy\obj\Debug\SearchFight.EngineProxy.pdb
+D:\DEV\TEST\SearchFight\SearchFight.ProviderProxy\obj\Debug\SearchFight.EngineProxy.csprojAssemblyReference.cache

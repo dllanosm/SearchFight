@@ -1,0 +1,11 @@
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\obj\Debug\SearchFight.ConsoleClient.csprojAssemblyReference.cache
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\obj\Debug\SearchFight.ConsoleClient.csproj.CoreCompileInputs.cache
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\bin\Debug\SearchEngines.json
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\bin\Debug\SearchFight.ConsoleClient.exe.config
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\bin\Debug\SearchFight.ConsoleClient.exe
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\bin\Debug\SearchFight.ConsoleClient.pdb
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\bin\Debug\SearchFight.EngineProxy.dll
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\bin\Debug\SearchFight.EngineProxy.pdb
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\obj\Debug\SearchFight.ConsoleClient.csproj.CopyComplete
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\obj\Debug\SearchFight.ConsoleClient.exe
+D:\DEV\TEST\SearchFight\SearchFight.ConsoleClient\obj\Debug\SearchFight.ConsoleClient.pdb
